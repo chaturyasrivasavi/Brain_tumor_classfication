@@ -43,3 +43,4 @@ This project focuses on detecting and classifying brain tumors from medical imag
 
 * Python, TensorFlow, NumPy, OpenCV, Matplotlib, Node.js (for UI).
 
+Dataset:https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
