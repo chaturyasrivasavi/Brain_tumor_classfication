@@ -26,7 +26,7 @@ This project focuses on detecting and classifying brain tumors from medical imag
 
 * Developed a **custom CNN architecture** optimized for medical image classification.
 * Used **data augmentation** to overcome limited dataset challenges.
-* Performed **comparative analysis** with transfer learning models (VGG16, ResNet50).
+* Performed **comparative analysis** with transfer learning models (MobileNetV2).
 * Implemented **Grad-CAM visualizations** for explainability of model predictions.
 * Built a simple **user interface** for uploading and predicting brain MRI images.
 
